@@ -40,7 +40,7 @@ dates or versions are promised here.
 
 - **Neutral** is the programming language and its toolchain.
 - **Neutral CLI** is the unified command-line interface for ecosystem workflows.
-- **Neutral CI/CD** is experimental provider-neutral pipeline tooling.
+- **Neutral Flow** is a pipelining tool.
 - **Neux** is standalone Linux system tooling; it is not the Neutral language or
   a Linux distribution.
 
