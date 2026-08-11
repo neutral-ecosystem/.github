@@ -1,0 +1,59 @@
+name: Bug report
+description: Report reproducible incorrect behavior in a Neutral project
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug. Do not include vulnerability details here; follow the organization's security policy instead.
+  - type: input
+    id: project
+    attributes:
+      label: Project
+      description: Which Neutral project is affected?
+      placeholder: Neutral, Neutral CLI, Neutral CI/CD, or Neux
+    validations:
+      required: true
+  - type: input
+    id: revision
+    attributes:
+      label: Version or revision
+      description: Provide a version, commit SHA, or branch if known.
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Include the operating system, architecture, and relevant tool versions.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Minimal reproduction
+      description: Provide the smallest set of steps, code, or configuration that reproduces the issue.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      description: Include relevant output after removing secrets and personal data.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I searched for an existing issue covering this problem.
+          required: true
+        - label: This report does not contain security-sensitive details.
+          required: true

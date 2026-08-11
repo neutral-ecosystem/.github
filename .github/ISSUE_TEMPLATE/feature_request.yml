@@ -1,0 +1,45 @@
+name: Feature proposal
+description: Propose an improvement to a Neutral project
+title: "[Proposal]: "
+labels:
+  - enhancement
+body:
+  - type: input
+    id: project
+    attributes:
+      label: Project
+      description: Which Neutral project would this affect?
+      placeholder: Neutral, Neutral CLI, Neutral CI/CD, or Neux
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What problem should be solved, and who encounters it?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed direction
+      description: Describe the behavior or interface you would like to explore.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: What other approaches or workarounds have you considered?
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Add examples, constraints, or references that may help evaluate the proposal.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I searched for an existing proposal covering this problem.
+          required: true
