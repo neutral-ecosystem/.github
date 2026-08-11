@@ -1,6 +1,6 @@
 # Neutral
 
-Neutral is an open-source programming language and developer ecosystem for building tooling, automation, CI/CD workflows, infrastructure, and system-level utilities.
+Neutral is an open-source programming language and developer ecosystem for building tooling, automation, CI/CD workflows, infrastructure, and system-level utilities, see [neutral.](https://neutral.younesrabeh.workers.dev)
 
 At the center of the ecosystem is the **Neutral programming language**, designed to provide a common foundation for expressing developer and system workflows. Around it, Neutral aims to provide a collection of modular tools that integrate closely with the language while remaining useful on their own.
 
@@ -29,6 +29,7 @@ Language syntax, APIs, architecture, tooling, and repository organization are ex
 Development takes place within the [Neutral Ecosystem organization](https://github.com/neutral-ecosystem).
 
 You can also:
-
+* Visit the [Neutral website](https://neutral.younesrabeh.workers.dev), follow
+development in the [Neutral Ecosystem organization](https://github.com/neutral-ecosystem),
 * read the [roadmap](https://github.com/neutral-ecosystem/.github/blob/main/ROADMAP.md)
 * review the [contribution guide](https://github.com/neutral-ecosystem/.github/blob/main/CONTRIBUTING.md)
