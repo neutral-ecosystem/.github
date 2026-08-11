@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Neutral
 
 Neutral is an open-source ecosystem for programming languages,
