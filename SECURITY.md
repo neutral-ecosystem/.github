@@ -7,8 +7,8 @@ policies; those policies take precedence.
 
 ## Reporting a vulnerability
 
-Please do not report vulnerabilities in a public issue, discussion, pull request,
-or commit.
+> [!IMPORTANT]
+> Please do not report vulnerabilities in a public issue, discussion, pull request, or commit.
 
 1. Open the affected repository and select **Security**.
 2. Use **Report a vulnerability** if private vulnerability reporting is enabled.
