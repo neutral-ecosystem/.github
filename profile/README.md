@@ -6,19 +6,19 @@ At its center is the **Neutral programming language**, designed to provide a com
 
 ## Projects
 
-* **Neutral** — the core programming language, compiler, and toolchain
-* **Neutral CLI** — a unified command-line interface for Neutral projects and developer workflows
-* **Neutral Flow** — tooling for defining, validating, and executing CI/CD pipelines
-* **Neux** — standalone tooling for Linux system workflows and automation
+* **Neutral** • the core programming language, compiler, and toolchain
+* **Neutral CLI** • a unified command-line interface for Neutral projects and developer workflows
+* **Neutral Flow** • tooling for defining, validating, and executing CI/CD pipelines
+* **Neux** • standalone tooling for Linux system workflows and automation
 
 The ecosystem is still taking shape, so project names, scopes, and repository structure may evolve as development progresses.
 
 ## Principles
 
-* **Open source** — development, design decisions, and implementation are open for inspection and contribution.
-* **Provider** — avoid unnecessary dependence on individual platforms, vendors, or infrastructure providers.
-* **Modular** — components should remain independently useful and composable.
-* **Developer focused** — interfaces should be predictable, scriptable, and straightforward to understand.
+* **Open source** • development, design decisions, and implementation are open for inspection and contribution.
+* **Provider** • avoid unnecessary dependence on individual platforms, vendors, or infrastructure providers.
+* **Modular** • components should remain independently useful and composable.
+* **Developer focused** • interfaces should be predictable, scriptable, and straightforward to understand.
 
 ## Status
 
