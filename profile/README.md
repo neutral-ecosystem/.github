@@ -6,7 +6,7 @@ At its center is the **Neutral programming language**, designed to provide a com
 
 ## Projects
 
-* **Neutral** • the core programming language, compiler, and toolchain
+* **Neutral Lang** • the core programming language, compiler, and toolchain
 * **Neutral CLI** • a unified command-line interface for Neutral projects and developer workflows
 * **Neutral Flow** • tooling for defining, validating, and executing CI/CD pipelines
 * **Neux** • standalone tooling for Linux system workflows and automation
