@@ -21,15 +21,16 @@ The ecosystem is still taking shape, so project names, scopes, and repository st
 - **Modular Architecture** • Components remain independently useful and composable.
 - **Developer Focused** • Interfaces are predictable, scriptable, and straightforward to understand.
 
----
 
-## 📌 Status & Resources
+## Status & Resources
 
 > [!NOTE]
 > **Neutral is currently in early development.**  
 > Language syntax, APIs, architecture, tooling, and repository organization are expected to evolve. Projects should be considered experimental unless their individual repositories explicitly state otherwise.
 
 Development takes place within the [Neutral Ecosystem organization](https://github.com/neutral-ecosystem).
+
+---
 
 ### Quick Links
 
