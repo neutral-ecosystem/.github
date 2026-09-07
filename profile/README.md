@@ -1,34 +1,41 @@
-# Neutral
+# Neutral Ecosystem
 
-Neutral is an open-source programming language and developer ecosystem for building tooling, automation, CI/CD workflows, infrastructure, and system-level utilities, see the [neutral website.](https://neutral.younesrabeh.workers.dev)
+**Neutral** is an open-source ecosystem for building modern tooling, automation, CI/CD workflows, infrastructure, and system-level utilities, see the [neutral website.](https://neutral.younesrabeh.workers.dev) 
 
-At its center is the **Neutral programming language**, designed to provide a common foundation for expressing developer and system workflows. Around it, Neutral aims to provide a collection of modular tools that integrate closely with the language while remaining useful on their own.
+At its center is **`neutral-lang`**, designed to provide a common foundation for expressing developer and system workflows. Around it, Neutral provides a collection of modular tools that integrate closely with the language while remaining useful on their own.
 
-## Projects
+---
+
+## Ecosystem Projects
 
 * **Neutral Lang** • the core programming language, compiler, and toolchain
-* **Neutral CLI** • a unified command-line interface for Neutral projects and developer workflows
+* **Neutral Editor** • a unified node-based graphical interface for Neutral projects and developer workflows
 * **Neutral Flow** • tooling for defining, validating, and executing CI/CD pipelines
-* **Neux** • standalone tooling for Linux system workflows and automation
 
 The ecosystem is still taking shape, so project names, scopes, and repository structure may evolve as development progresses.
 
-## Principles
+## Guiding Principles
 
-* **Open source** • development, design decisions, and implementation are open for inspection and contribution.
-* **Provider** • avoid unnecessary dependence on individual platforms, vendors, or infrastructure providers.
-* **Modular** • components should remain independently useful and composable.
-* **Developer focused** • interfaces should be predictable, scriptable, and straightforward to understand.
+- **Open Source** • Development, design decisions, and implementation are open for inspection and community contribution.
+- **Provider Neutral** • Avoid unnecessary dependence on individual platforms, vendors, or infrastructure providers.
+- **Modular Architecture** • Components remain independently useful and composable.
+- **Developer Focused** • Interfaces are predictable, scriptable, and straightforward to understand.
 
-## Status
+---
 
-Neutral is currently in early development.
+## 📌 Status & Resources
 
-Language syntax, APIs, architecture, tooling, and repository organization are expected to evolve. Projects should be considered experimental unless their individual repositories explicitly state otherwise.
+> [!NOTE]
+> **Neutral is currently in early development.**  
+> Language syntax, APIs, architecture, tooling, and repository organization are expected to evolve. Projects should be considered experimental unless their individual repositories explicitly state otherwise.
 
 Development takes place within the [Neutral Ecosystem organization](https://github.com/neutral-ecosystem).
 
-You can also:
-* Visit the [Neutral website](https://neutral.younesrabeh.workers.dev), follow development in the [Neutral Ecosystem organization](https://github.com/neutral-ecosystem),
-* read the [roadmap](https://github.com/neutral-ecosystem/.github/blob/main/ROADMAP.md)
-* review the [contribution guide](https://github.com/neutral-ecosystem/.github/blob/main/CONTRIBUTING.md)
+### Quick Links
+
+- 🌐 **Website:** Visit the [Neutral Official Website](https://neutral.younesrabeh.workers.dev)
+- 🗺️ **Roadmap:** See the [Neutral Roadmap Website](https://neutral-roadmap.younesrabeh.workers.dev)
+- 🤝 **Contributing:** Read our [Contribution Guide](https://github.com/neutral-ecosystem/.github/blob/main/CONTRIBUTING.md)
+- 📜 **Code of Conduct:** Look at [CODE_OF_CONDUCT.md](https://github.com/neutral-ecosystem/.github/blob/main/CODE_OF_CONDUCT.md)
+- 🔒 **Security:** Follow [SECURITY.md](https://github.com/neutral-ecosystem/.github/blob/main/SECURITY.md)
+
